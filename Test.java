@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
  */
 public class Test {
     private String name;
+    private int xxx;
 
     public String getName() {
         return name;
@@ -22,5 +23,13 @@ public class Test {
 
     public int getAge() {
       return age;
+    }
+
+    int a;
+
+    public void test() {
+      log.else {
+        
+      }
     }
 }
