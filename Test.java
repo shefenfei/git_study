@@ -29,7 +29,9 @@ public class Test {
 
     public void test() {
       log.else {
-        
+
       }
     }
+
+    int brea;
 }
